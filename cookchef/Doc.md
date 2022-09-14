@@ -14,3 +14,5 @@ import './assets/styles/index.scss';
  Creation des dossier que l'on met ds un dossier asset  style et images
  
 # npm start
+
+# pour nos couleurs on va aller sur flatuicolors.com
