@@ -1,4 +1,8 @@
+import styles from './Header.module.scss';
+
+{/* <i class="fa-solid fa-bars"></i> */}
+
 function Header(){
-  return <div className="b1">Header</div>;
+  return <div className={styles.Header}>Header</div>;
 }
 export default Header;

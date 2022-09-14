@@ -21,3 +21,4 @@ import './assets/styles/index.scss';
 # jour 2
 
 Creation du dossier composents(components) ou on va mettre tt nos composants
+Creation compte sur font fontawesome pour avoir des icones gratuites mds 
