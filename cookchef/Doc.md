@@ -16,3 +16,8 @@ import './assets/styles/index.scss';
 # npm start
 
 # pour nos couleurs on va aller sur flatuicolors.com
+
+
+# jour 2
+
+Creation du dossier composents(components) ou on va mettre tt nos composants
